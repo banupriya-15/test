@@ -3,5 +3,7 @@
 int main()
 {
   printf("HELLO WORLD\n");
+  printf("Hello world after changes\n");
+  printf("Hello world after initial commit\n");
   
-  }
+}
